@@ -1,0 +1,56 @@
+{
+  "1": {
+    "nombre": "Akira",
+    "genero": "Seinen",
+    "año": "1988",
+    "autor": "Katsuhiro Otomo"
+  },
+  "2": {
+    "nombre": "Dragon Ball",
+    "genero": "Shonen",
+    "año": "1986",
+    "autor": "Akira Toriyama"
+  },
+  "3": {
+    "nombre": "Sailor Moon",
+    "genero": "Shojo",
+    "año": "1992",
+    "autor": "Naoko Takeuchi"
+  },
+  "4": {
+    "nombre": "Naruto",
+    "genero": "Shonen",
+    "año": "2002",
+    "autor": "Masashi Kishimoto"
+  },
+  "5": {
+    "nombre": "Neon Genesis Evangelion",
+    "genero": "Mecha",
+    "año": "1995",
+    "autor": "Yoshiyuki Sadamoto"
+  },
+  "6": {
+    "nombre": "One Piece",
+    "genero": "Shonen",
+    "año": "1999",
+    "autor": "Eiichiro Oda"
+  },
+  "7": {
+    "nombre": "Attack on Titan",
+    "genero": "Shonen",
+    "año": "2013",
+    "autor": "Hajime Isayama"
+  },
+  "a435cccc-a99e-4414-9f2e-ef1cfbb83b12": {
+    "nombre": "Fullmetal Alchemist: Brotherhood",
+    "genero": "Shonen",
+    "año": "2009",
+    "autor": "Hiromu Arakawa"
+  },
+  "0146fb88-418f-444f-9931-a59f2718d3a7": {
+    "nombre": "Death Note",
+    "genero": "Seinen",
+    "año": "2006",
+    "autor": "Tsugumi Ohba"
+  }
+}

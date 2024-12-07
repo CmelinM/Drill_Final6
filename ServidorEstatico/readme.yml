@@ -1,0 +1,33 @@
+CONSULTA ANIME.JSON OK
+CONSULTA POR ID OK
+CONSULTA NOMBRE OK
+BUSCAR POR NOMBRE OK
+DELETE POR ID OK
+
+
+########## Consultas Postman ##############
+
+Consultar animes:
+   GET localhost:9000/api/anime
+
+Buscar por nombre o letra del nombre la consultra traera todas las coincidencias:
+   GET localhost:9000/api/anime?nombre=k
+
+Buscar un objeto mediente el uso del ID:
+   GET localhost:9000/api/anime/5
+
+Crear nuevos objetos dentro del archivo anime.json:
+   POST localhost:9000/api/anime/
+ejemplo:
+   { 
+   "nombre": "One Piece",
+   "genero": "Shonen",
+   "año": "1999",
+   "autor": "Eiichiro Oda"
+      }
+
+Actualizar un campo de uno de los objetos mediante el id:
+   PUT localhost:9000/api/anime/3
+
+Eliminar un objeto dentro del archivo anime.json medient el uso del ID:
+   DELETE localhost:9000/api/anime/1

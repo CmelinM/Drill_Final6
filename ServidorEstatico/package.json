@@ -1,0 +1,12 @@
+{
+    "name": "servidor-estatico",
+    "version": "1.0.0",
+    "main": "server.js",
+    "type": "module",
+    "scripts": {
+        "dev": "node --watch index.js"
+    },
+    "dependencies": {
+        "mime-types": "^2.1.35"
+    }
+}
